@@ -1,0 +1,7 @@
+This line is short.
+Shorter, maybe.
+The Sun is 93,000,000 miles from earth.
+Many     spaces!
+Long1?
+Long2?
+Last line in the file.

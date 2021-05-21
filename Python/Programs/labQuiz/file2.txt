@@ -1,0 +1,7 @@
+This line is long, maybe.
+Shorter, I think.
+c = 186,000 miles per second.
+Many     spaces!
+Long1?                                      
+Long2?
+Last   line   in   the  file.
